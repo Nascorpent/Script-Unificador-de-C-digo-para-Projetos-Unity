@@ -14,17 +14,17 @@ O objetivo é facilitar a revisão de código, a análise de projetos e, princip
 
 ## Como Usar
 
-1.  **Localização:** Salve o script `unificar_scripts_unity.py` na **pasta raiz** do seu projeto Unity.
+1.  **Localização:** Salve o script `AllScripts.py` na **pasta raiz** do seu projeto Unity.
 
     ```
     MeuProjetoUnity/
     ├── Assets/
     ├── Library/
     ├── ProjectSettings/
-    └── unificar_scripts_unity.py   <-- SALVE O SCRIPT AQUI
+    └── AllScripts.py   <-- SALVE O SCRIPT AQUI
     ```
 
-2.  **Execução:** Dê um duplo clique no arquivo `unificar_scripts_unity.py`. Uma janela de terminal aparecerá brevemente para executar o processo.
+2.  **Execução:** Dê um duplo clique no arquivo `AllScripts.py`. Uma janela de terminal aparecerá brevemente para executar o processo.
 
 3.  **Resultado:** Uma nova pasta chamada **`AllScripts_CS`** será criada na raiz do seu projeto. Dentro dela, você encontrará o arquivo `.txt` gerado com todos os scripts unificados.
 
